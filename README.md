@@ -27,8 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://time-tracking-dashboard-main-seven.vercel.app/)
 
 ### Built with
 
@@ -39,6 +38,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [Leonardo Reis](https://www.frontendmentor.io/profile/leonardo9245)
+- Linkedin - [Leonardo Reis](https://www.linkedin.com/in/leonardo-reis-81a2a4135/)
